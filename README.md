@@ -1,4 +1,4 @@
-# passo a passo
+# Passo a passo
 
 ### Suba os containers elasticsearch e o kibana com docker
     sudo docker-compose up -d
